@@ -1,0 +1,62 @@
+
+body {
+font-family: 'Cormorant Garamond', serif;
+color: white;
+background-image:url("../cronometro_JS/img/sonic5.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.wrapper {
+ box-sizing: border-box;
+width: 800px;
+margin: 10px auto;
+padding: white;
+text-align:center;
+}
+
+h1, h2, h3 {
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor:pointer;
+margin: 10x auto;
+ outline: none;
+ color: #FF0000;
+ text-shadow:
+ 0 0 18px rgba(255, 0, 0, .7),
+ 0 0 48px rgba(255, 0, 0, .7),
+ 0 0 108px rgba(255, 0, 0, .7);
+  
+}
+
+#seconds, #tens{
+  font-size:2em;
+  border: solid 1px;
+  color: #1A50BC;
+  background-color: white;
+  text-shadow: 
+  0 0 18px rgba(26, 80, 188, .7),
+  0 0 48px rgba(26, 80, 188, .7),
+  0 0 108px rgba(26, 80, 188, .7);
+}
+
+button{
+ border: solid 1px;
+ color: #1A50BC;
+ text-shadow:  
+ 0 0 18px rgba(26, 80, 188, .7),
+ 0 0 48px rgba(26, 80, 188, .7),
+ 0 0 108px rgba(26, 80, 188, .7);;
+ background-color: white;
+text-decoration:none;
+cursor:pointer;
+font-size:1.2em;
+padding:18px 10px;
+width: 200px;
+margin: 10px;
+ outline: none;
+
+	}
+
