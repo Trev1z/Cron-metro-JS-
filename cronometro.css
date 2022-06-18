@@ -2,7 +2,7 @@
 body {
 font-family: 'Cormorant Garamond', serif;
 color: white;
-background-image:url("../cronometro_JS/img/sonic5.jpg");
+background-image:url("./cronometro_JS/img/sonic5.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
